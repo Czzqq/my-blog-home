@@ -1,18 +1,16 @@
 {
-    "title": "Czz 的个人主页",
+    "title": "Zane Chen's Home",
     "description": "",
-    "keywords": "Czz,个人主页",
-    "author": "Czz",
+    "keywords": "Czz,ZaneChen,个人主页",
+    "author": "Zane",
     "logo_img": "./img/icon/avatar.jpg",
-    "logo_text_1": "chenzheng",
-    "logo_text_2": "xyz",
+    "logo_text_1": "ZaneChen",
+    "logo_text_2": "Czz",
     "github": "Czzqq",
     "qq": "814626504",
     "email": "chenlthree@163.com",
-    "bilibili": "495003013",
-    "facebook": "bottom_user",
     "link_1": [
-        "http://blog.wuhobin.top/",
+        "http://blog.chenzheng.xyz/",
         "fa-solid fa-blog",
         "博客"
     ],
@@ -22,7 +20,7 @@
         "统计"
     ],
     "link_3": [
-        "http://www.wuhobin.top/",
+        "http://www.chenzheng.xyz/",
         "fa-solid fa-compass",
         "起始页"
     ],
@@ -32,15 +30,15 @@
         "编程宝典"
     ],
     "link_5": [
-        "http://www.wuhobin.top/",
+        "http://www.chenzheng.xyz/",
         "fa-solid fa-flask",
         "开发中..."
     ],
     "link_6": [
-        "http://www.wuhobin.top/",
+        "http://www.chenzheng.xyz/",
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "Aurora",
-    "beian": "鄂ICP备20006685号"
+    "Copyright_text": "Zane",
+    "beian": "豫ICP备2023002262号"
 }
