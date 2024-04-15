@@ -3,9 +3,17 @@
     "description": "",
     "keywords": "Czz,ZaneChen,个人主页",
     "author": "Zane",
-    "logo_img": "./img/icon/avatar.jpg",
+    "logo_img": "./img/icon/avatar1.jpg",
     "logo_text_1": "ZaneChen",
     "logo_text_2": "Czz",
+    "des_title": [
+        "Hello World !", 
+        "这或许是无人知晓的角落" 
+    ],
+    "des_title_change": [
+        "Oops !", 
+        "哎呀，这都被你发现了 ( 再点击一次可关闭 )" 
+    ],
     "github": "Czzqq",
     "qq": "814626504",
     "email": "chenlthree@163.com",
